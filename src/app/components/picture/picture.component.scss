@@ -1,0 +1,18 @@
+img {
+  position: absolute;
+  height: 300px;
+  width: 300px;
+}
+
+@media screen and (max-width: 768px) {
+  app-style {
+    margin-top: 320px;
+  }
+}
+.ok {
+  margin-top: 400px;
+}
+
+.btn {
+  margin-top: 340px;
+}
